@@ -4,6 +4,8 @@
 
 Đăng nhập tài khoản
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f65716a-85cb-46f5-b3be-a8b9e8fca408" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70a28807-c246-4c3b-b085-2e0c8a9b49fa" />
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3671eaa4-4037-491b-9038-e7813654f725" />
 
 Đăng xuất tài khoản
